@@ -48,8 +48,6 @@ int sub(int number1, int number2)
  
 int multi(int number1, int number2)
 {
-	// 두 수의 곱셈 연산입니다.
-	// 두 수는 int입니다.
 	return number1 * number2;
 }
  
