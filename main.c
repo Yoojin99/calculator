@@ -48,8 +48,8 @@ int sub(int number1, int number2)
  
 int multi(int number1, int number2)
 {
-	//TODO implementation
-	return 0;
+	// 두 수의 곱셈 연산입니다.
+	return number1 * number2;
 }
  
 int div(int number1, int number2)
